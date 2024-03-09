@@ -1,4 +1,4 @@
-FROM node:14.3 as base
+FROM node:21-alpine3.18 as base
 
 ENV APP_DIR /opt/marotinus
 

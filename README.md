@@ -8,6 +8,12 @@ Instale o Minikube no Mac:
 ```sh
 brew install minikube
 ```
+
+Instale o Watch no Mac:
+```sh
+brew install watch
+```
+
 Instalação Linux: https://minikube.sigs.k8s.io/docs/start/
 
 
